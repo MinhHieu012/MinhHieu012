@@ -27,11 +27,6 @@ Developer tại **Công ty Cổ phần Công nghệ Zamora**. Mình làm backend
 | [MemoryFraction](https://github.com/MinhHieu012/memory-fraction-plugin-for-TrafficMonitor) | Plugin TrafficMonitor hiển thị RAM dạng `used/total GB` trên taskbar Windows. | C++ |
 | [battery-charging-limit-linux](https://github.com/MinhHieu012/battery-charging-limit-linux) | CLI giới hạn mức sạc pin cho laptop Linux để kéo dài tuổi thọ pin. | Python |
 
-### GitHub stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MinhHieu012&show_icons=true&hide_border=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhHieu012&layout=compact&hide_border=true&theme=tokyonight)
-
 ### Liên hệ
 
 - 📫 Email: 0967710509hieu@gmail.com
